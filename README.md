@@ -139,3 +139,13 @@ Hardcoded OTP credentials
 
 ---
 🧩 Features (Current vs Future)
+| Feature               | Status                |
+| --------------------- | --------------------- |
+| OTP Login System      | ✅ Completed           |
+| Frontend UI           | 🟡 Basic (index only) |
+| Dataset Included      | ✅ Yes                 |
+| ML Model Training     | ❌ Not yet implemented |
+| Prediction Endpoint   | ❌ Missing             |
+| Result Page           | ❌ Missing             |
+| Environment Variables | ❌ Keys are hardcoded  |
+| Deployment Ready      | ❌ Not yet             |
