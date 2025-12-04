@@ -149,3 +149,5 @@ Hardcoded OTP credentials
 | Result Page           | ❌ Missing             |
 | Environment Variables | ❌ Keys are hardcoded  |
 | Deployment Ready      | ❌ Not yet             |
+
+---
