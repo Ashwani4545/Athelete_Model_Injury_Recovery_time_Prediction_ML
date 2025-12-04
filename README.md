@@ -18,3 +18,17 @@ Project scaffolding prepared for ML model integration
 
 ----
 📂 Repository Structure
+Athelete_Model_Injury_Recovery_time_Prediction_ML/
+│
+├── application.py               # Flask app (OTP login, routing)
+├── injury1.csv                  # Dataset for future ML model
+├── README.md                    # Project documentation
+├── requirements.txt             # Dependencies
+│
+├── templates/                   # HTML templates for Flask
+│   ├── index.html               # Login / OTP page
+│   └── (other UI files)
+│
+├── static/                      # CSS, JS, image assets
+│
+└── flask_session/               # Session storage for Flask
