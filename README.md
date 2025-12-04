@@ -151,3 +151,15 @@ Hardcoded OTP credentials
 | Deployment Ready      | ❌ Not yet             |
 
 ---
+🎯 Project Goals
+
+Provide accurate estimation of recovery time for injured athletes
+
+Assist coaches, trainers, and medical staff in planning rehabilitation
+
+Build a scalable ML + Web solution
+
+Add visual analytics dashboards
+
+---
+👨‍💻 Author
