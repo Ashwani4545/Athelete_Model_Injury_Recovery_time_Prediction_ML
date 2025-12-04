@@ -51,3 +51,10 @@ Login/logout routes
 This ensures secure access to the future ML prediction tool.
 
 ---
+⏳ Upcoming Functionality (Machine Learning Module)
+
+You already have injury1.csv, which includes athlete injury–related fields.
+
+The next steps of the project will include:
+
+✔ Building ML Pipeline
