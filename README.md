@@ -79,3 +79,20 @@ A form (HTML) where users enter injury details
 Display predicted recovery time
 
 ---
+📊 Dataset Description (injury1.csv)
+
+The dataset contains fields such as:
+
+Type of injury
+
+Severity
+
+Body region
+
+Athlete demographics
+
+Recovery duration
+
+Training load indicators
+
+(Actual field names will be listed after data preprocessing step.)
