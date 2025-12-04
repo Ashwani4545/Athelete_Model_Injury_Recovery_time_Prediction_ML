@@ -98,3 +98,5 @@ Training load indicators
 (Actual field names will be listed after data preprocessing step.)
 
 ---
+📦 Installation & Setup
+1️⃣ Clone the Repository
