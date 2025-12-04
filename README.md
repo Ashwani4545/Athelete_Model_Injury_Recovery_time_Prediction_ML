@@ -15,3 +15,6 @@ Backend routing and session management
 Project scaffolding prepared for ML model integration
 
 🔧 The machine learning model is not yet integrated — this README outlines both the current system and upcoming ML workflow.
+
+----
+📂 Repository Structure
