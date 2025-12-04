@@ -36,3 +36,18 @@ Athelete_Model_Injury_Recovery_time_Prediction_ML/
 ---
 🚀 Current Functionality
 ✔ 1. OTP-Based Login System
+The application includes:
+
+User phone number input
+
+OTP generation
+
+Session validation
+
+SMS API integration
+
+Login/logout routes
+
+This ensures secure access to the future ML prediction tool.
+
+---
