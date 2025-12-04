@@ -1,3 +1,4 @@
+
 # 📘 Athlete Injury Recovery Time Prediction – Machine Learning & Flask Application
 
 📌 Project Overview
@@ -163,3 +164,5 @@ Add visual analytics dashboards
 
 ---
 👨‍💻 Author
+Ashwani Pandey
+Machine Learning & Software Developer
