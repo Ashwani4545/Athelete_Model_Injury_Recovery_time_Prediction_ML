@@ -46,7 +46,7 @@ The application includes:
 This ensures secure access to the future ML prediction tool.
 
 ---
-# ⏳ Upcoming Functionality (Machine Learning Module)
+# ⏳ Functionality (Machine Learning Module)
 
 You already have injury1.csv, which includes athlete injury–related fields.
 
