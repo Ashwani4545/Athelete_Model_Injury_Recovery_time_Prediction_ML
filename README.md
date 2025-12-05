@@ -7,7 +7,6 @@ The project currently includes:
 - A Flask-based web application
 - OTP-based authentication system (via SMS API)
 - A structured dataset (injury1.csv) containing athlete injury records
-
 - Backend routing and session management
 
 - Project scaffolding prepared for ML model integration
