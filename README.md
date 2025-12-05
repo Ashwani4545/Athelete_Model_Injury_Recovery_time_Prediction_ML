@@ -61,11 +61,11 @@ Model training (Regression models like Random Forest, XGBoost, etc.)
 
 Evaluating MAE, RMSE, R²
 
-✔ Saving trained ML model
+### ✔ Saving trained ML model
 
 model.pkl or model.joblib
 
-✔ Building Predict UI + Backend
+### ✔ Building Predict UI + Backend
 
 A Flask endpoint /predict
 
