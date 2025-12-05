@@ -52,7 +52,7 @@ You already have injury1.csv, which includes athlete injury–related fields.
 
 The next steps of the project will include:
 
-✔ Building ML Pipeline
+###✔ Building ML Pipeline
 Data cleaning
 
 Feature engineering
