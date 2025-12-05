@@ -1,6 +1,6 @@
 # 📘 Athlete Injury Recovery Time Prediction – Machine Learning & Flask Application
 
-# 📌 Project Overview
+## 📌 Project Overview
 This project aims to build a Machine Learning–powered web application to predict the recovery time of athletes after an injury based on structured medical and training data.
 The project currently includes:
 
