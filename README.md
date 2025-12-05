@@ -93,7 +93,7 @@ Training load indicators
 (Actual field names will be listed after data preprocessing step.)
 
 ---
-📦 Installation & Setup
+# 📦 Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/Ashwani4545/Athelete_Model_Injury_Recovery_time_Prediction_ML.git
 cd Athelete_Model_Injury_Recovery_time_Prediction_ML
