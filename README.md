@@ -17,7 +17,7 @@ Project scaffolding prepared for ML model integration
 🔧 The machine learning model is not yet integrated — this README outlines both the current system and upcoming ML workflow.
 
 ----
-📂 Repository Structure
+# 📂 Repository Structure
 Athelete_Model_Injury_Recovery_time_Prediction_ML/
 │
 ├── application.py               # Flask app (OTP login, routing)
