@@ -146,7 +146,7 @@ Hardcoded OTP credentials
 | Deployment Ready      | ❌ Not yet             |
 
 ---
-🎯 Project Goals
+# 🎯 Project Goals
 
 Provide accurate estimation of recovery time for injured athletes
 
