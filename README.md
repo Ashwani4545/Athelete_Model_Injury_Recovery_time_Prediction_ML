@@ -124,7 +124,7 @@ Pandas / NumPy (for upcoming ML model)
 Scikit-learn (for prediction model)
 
 ---
-🔐 Security Notice
+# 🔐 Security Notice
 Hardcoded API keys
 
 Hardcoded OTP credentials
