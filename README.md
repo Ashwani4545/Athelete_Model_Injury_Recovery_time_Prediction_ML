@@ -93,7 +93,7 @@ Training load indicators
 (Actual field names will be listed after data preprocessing step.)
 
 ---
-# 📦 Installation & Setup
+## 📦 Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/Ashwani4545/Athelete_Model_Injury_Recovery_time_Prediction_ML.git
 cd Athelete_Model_Injury_Recovery_time_Prediction_ML
@@ -109,7 +109,7 @@ Open your browser at:
 http://127.0.0.1:5000/
 
 ---
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 Python
 
@@ -124,7 +124,7 @@ Pandas / NumPy (for upcoming ML model)
 Scikit-learn (for prediction model)
 
 ---
-# 🔐 Security Notice
+## 🔐 Security Notice
 Hardcoded API keys
 
 Hardcoded OTP credentials
@@ -133,7 +133,7 @@ Hardcoded OTP credentials
 ✔ Sensitive keys will be removed from the public repo.
 
 ---
-# 🧩 Features (Current vs Future)
+## 🧩 Features (Current vs Future)
 | Feature               | Status                |
 | --------------------- | --------------------- |
 | OTP Login System      | ✅ Completed           |
@@ -146,7 +146,7 @@ Hardcoded OTP credentials
 | Deployment Ready      | ❌ Not yet             |
 
 ---
-# 🎯 Project Goals
+## 🎯 Project Goals
 
 Provide accurate estimation of recovery time for injured athletes
 
@@ -157,7 +157,7 @@ Build a scalable ML + Web solution
 Add visual analytics dashboards
 
 ---
-# 👨‍💻 Author
+## 👨‍💻 Author
 Ashwani Pandey
 Machine Learning & Software Developer
 
