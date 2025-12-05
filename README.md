@@ -45,7 +45,6 @@ The application includes:
 - OTP generation
 - Session validation
 - SMS API integration
-
 - Login/logout routes
 
 This ensures secure access to the future ML prediction tool.
