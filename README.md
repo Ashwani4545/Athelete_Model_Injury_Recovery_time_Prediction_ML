@@ -133,7 +133,7 @@ Hardcoded OTP credentials
 ✔ Sensitive keys will be removed from the public repo.
 
 ---
-🧩 Features (Current vs Future)
+# 🧩 Features (Current vs Future)
 | Feature               | Status                |
 | --------------------- | --------------------- |
 | OTP Login System      | ✅ Completed           |
