@@ -8,7 +8,6 @@ The project currently includes:
 - OTP-based authentication system (via SMS API)
 - A structured dataset (injury1.csv) containing athlete injury records
 - Backend routing and session management
-
 - Project scaffolding prepared for ML model integration
 
 🔧 The machine learning model is not yet integrated — this README outlines both the current system and upcoming ML workflow.
