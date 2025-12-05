@@ -5,7 +5,6 @@ This project aims to build a Machine Learning–powered web application to predi
 The project currently includes:
 
 - A Flask-based web application
-
 - OTP-based authentication system (via SMS API)
 
 - A structured dataset (injury1.csv) containing athlete injury records
