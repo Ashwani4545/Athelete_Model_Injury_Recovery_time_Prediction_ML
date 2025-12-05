@@ -43,7 +43,6 @@ The application includes:
 
 - User phone number input
 - OTP generation
-
 - Session validation
 
 - SMS API integration
