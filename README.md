@@ -46,7 +46,7 @@ The application includes:
 This ensures secure access to the future ML prediction tool.
 
 ---
-# ⏳ Functionality (Machine Learning Module)
+## ⏳ Functionality (Machine Learning Module)
 
 You already have injury1.csv, which includes athlete injury–related fields.
 
@@ -74,7 +74,7 @@ A form (HTML) where users enter injury details
 Display predicted recovery time
 
 ---
-# 📊 Dataset Description (injury1.csv)
+## 📊 Dataset Description (injury1.csv)
 
 The dataset contains fields such as:
 
