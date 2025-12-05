@@ -74,7 +74,7 @@ A form (HTML) where users enter injury details
 Display predicted recovery time
 
 ---
-📊 Dataset Description (injury1.csv)
+# 📊 Dataset Description (injury1.csv)
 
 The dataset contains fields such as:
 
