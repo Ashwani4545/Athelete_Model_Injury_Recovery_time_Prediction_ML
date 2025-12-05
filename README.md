@@ -42,7 +42,6 @@ Athelete_Model_Injury_Recovery_time_Prediction_ML/
 The application includes:
 
 - User phone number input
-
 - OTP generation
 
 - Session validation
