@@ -34,6 +34,7 @@ Athelete_Model_Injury_Recovery_time_Prediction_ML/
 │
 └── flask_session/               # Session storage for Flask
 ```
+
 ---
 🚀 Current Functionality
 ✔ 1. OTP-Based Login System
