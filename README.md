@@ -157,7 +157,7 @@ Build a scalable ML + Web solution
 Add visual analytics dashboards
 
 ---
-👨‍💻 Author
+# 👨‍💻 Author
 Ashwani Pandey
 Machine Learning & Software Developer
 
