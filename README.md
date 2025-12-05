@@ -18,7 +18,7 @@ Project scaffolding prepared for ML model integration
 
 ----
 ## 📂 Repository Structure
-
+```
 Athelete_Model_Injury_Recovery_time_Prediction_ML/
 │
 ├── application.py               # Flask app (OTP login, routing)
