@@ -81,8 +81,10 @@ The dataset contains fields such as:
 ---
 ## 📦 Installation & Setup
 1️⃣ Clone the Repository
+```
 git clone https://github.com/Ashwani4545/Athelete_Model_Injury_Recovery_time_Prediction_ML.git
 cd Athelete_Model_Injury_Recovery_time_Prediction_ML
+```
 
 2️⃣ Install Required Libraries
 pip install -r requirements.txt
