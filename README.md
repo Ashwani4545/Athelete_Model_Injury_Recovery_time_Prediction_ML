@@ -57,7 +57,6 @@ This ensures secure access to the future ML prediction tool.
 - Evaluating MAE, RMSE, R²
 
 ### ✔ Saving trained ML model
-
 - model.pkl or model.joblib
 
 ### ✔ Building Predict UI + Backend
