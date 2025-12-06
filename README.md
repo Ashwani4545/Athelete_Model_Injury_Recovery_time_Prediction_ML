@@ -69,11 +69,11 @@ This ensures secure access to the future ML prediction tool.
 
 The dataset contains fields such as:
 
--Type of injury
+- Type of injury
 
--Severity
+- Severity
 
--Body region
+- Body region
 
 Athlete demographics
 
