@@ -61,9 +61,7 @@ This ensures secure access to the future ML prediction tool.
 
 ### ✔ Building Predict UI + Backend
 -A Flask endpoint /predict
-
 -A form (HTML) where users enter injury details
-
 -Display predicted recovery time
 
 ---
