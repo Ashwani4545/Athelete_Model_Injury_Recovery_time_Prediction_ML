@@ -75,11 +75,11 @@ The dataset contains fields such as:
 
 - Body region
 
--Athlete demographics
+- Athlete demographics
 
--Recovery duration
+- Recovery duration
 
--Training load indicators
+- Training load indicators
 
 (Actual field names will be listed after data preprocessing step.)
 
