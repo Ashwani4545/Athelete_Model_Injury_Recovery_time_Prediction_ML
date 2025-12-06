@@ -60,9 +60,9 @@ This ensures secure access to the future ML prediction tool.
 - model.pkl or model.joblib
 
 ### ✔ Building Predict UI + Backend
--A Flask endpoint /predict
--A form (HTML) where users enter injury details
--Display predicted recovery time
+- A Flask endpoint /predict
+- A form (HTML) where users enter injury details
+- Display predicted recovery time
 
 ---
 ## 📊 Dataset Description (injury1.csv)
