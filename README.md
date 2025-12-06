@@ -53,13 +53,13 @@ You already have injury1.csv, which includes athlete injury–related fields.
 The next steps of the project will include:
 
 ### ✔ Building ML Pipeline
-Data cleaning
+-Data cleaning
 
-Feature engineering
+-Feature engineering
 
-Model training (Regression models like Random Forest, XGBoost, etc.)
+-Model training (Regression models like Random Forest, XGBoost, etc.)
 
-Evaluating MAE, RMSE, R²
+-Evaluating MAE, RMSE, R²
 
 ### ✔ Saving trained ML model
 
