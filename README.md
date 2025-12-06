@@ -115,7 +115,6 @@ http://127.0.0.1:5000/
 ---
 ## 🔐 Security Notice
 - Hardcoded API keys
-
 - Hardcoded OTP credentials
 
 ✔ These will be moved into .env environment variables during correction.
