@@ -136,13 +136,13 @@ http://127.0.0.1:5000/
 ---
 ## 🎯 Project Goals
 
--Provide accurate estimation of recovery time for injured athletes
+- Provide accurate estimation of recovery time for injured athletes
 
--Assist coaches, trainers, and medical staff in planning rehabilitation
+- Assist coaches, trainers, and medical staff in planning rehabilitation
 
--Build a scalable ML + Web solution
+- Build a scalable ML + Web solution
 
--Add visual analytics dashboards
+- Add visual analytics dashboards
 
 ---
 ## 👨‍💻 Author
