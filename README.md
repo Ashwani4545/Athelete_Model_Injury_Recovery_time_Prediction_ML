@@ -70,15 +70,10 @@ This ensures secure access to the future ML prediction tool.
 The dataset contains fields such as:
 
 - Type of injury
-
 - Severity
-
 - Body region
-
 - Athlete demographics
-
 - Recovery duration
-
 - Training load indicators
 
 (Actual field names will be listed after data preprocessing step.)
