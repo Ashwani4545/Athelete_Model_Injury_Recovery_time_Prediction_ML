@@ -105,12 +105,12 @@ http://127.0.0.1:5000/
 ---
 ## ⚙️ Tech Stack
 
--Python
--Flask
--Flask-Session
--Requests API
--Pandas / NumPy (for upcoming ML model)
--Scikit-learn (for prediction model)
+- Python
+- Flask
+- Flask-Session
+- Requests API
+- Pandas / NumPy (for upcoming ML model)
+- Scikit-learn (for prediction model)
 
 ---
 ## 🔐 Security Notice
