@@ -60,7 +60,7 @@ The next steps of the project will include:
 
 ### ✔ Saving trained ML model
 
--model.pkl or model.joblib
+- model.pkl or model.joblib
 
 ### ✔ Building Predict UI + Backend
 
