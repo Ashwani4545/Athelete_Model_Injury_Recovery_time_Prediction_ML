@@ -114,9 +114,9 @@ http://127.0.0.1:5000/
 
 ---
 ## 🔐 Security Notice
-Hardcoded API keys
+- Hardcoded API keys
 
-Hardcoded OTP credentials
+- Hardcoded OTP credentials
 
 ✔ These will be moved into .env environment variables during correction.
 ✔ Sensitive keys will be removed from the public repo.
