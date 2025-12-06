@@ -48,9 +48,9 @@ This ensures secure access to the future ML prediction tool.
 ---
 ## ⏳ Functionality (Machine Learning Module)
 
-You already have injury1.csv, which includes athlete injury–related fields.
+-You already have injury1.csv, which includes athlete injury–related fields.
 
-The next steps of the project will include:
+-The next steps of the project will include:
 
 ### ✔ Building ML Pipeline
 - Data cleaning
