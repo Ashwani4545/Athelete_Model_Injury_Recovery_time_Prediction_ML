@@ -87,7 +87,9 @@ cd Athelete_Model_Injury_Recovery_time_Prediction_ML
 ```
 
 2️⃣ Install Required Libraries
+```
 pip install -r requirements.txt
+```
 
 3️⃣ Run the Flask Application
 python application.py
