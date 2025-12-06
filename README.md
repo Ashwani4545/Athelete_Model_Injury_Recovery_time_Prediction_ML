@@ -92,7 +92,9 @@ pip install -r requirements.txt
 ```
 
 3️⃣ Run the Flask Application
+```
 python application.py
+```
 
 4️⃣ Access the App
 Open your browser at:
