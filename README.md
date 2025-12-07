@@ -147,7 +147,7 @@ http://127.0.0.1:5000/
 - Add visual analytics dashboards
 
 ---
-# LICENSE
+## LICENSE
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 ---
 ## 👨‍💻 Author
