@@ -28,7 +28,8 @@ Athelete_Model_Injury_Recovery_time_Prediction_ML/
 │
 ├── static/                      # CSS, JS, image assets
 │
-└── flask_session/               # Session storage for Flask
+└── flask_session/
+|               # Session storage for Flask
 └── LICENSE
 ```
 
